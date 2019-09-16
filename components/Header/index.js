@@ -19,7 +19,7 @@ function header() {
     const newTemp = document.createElement('span');
 
 
-    document.querySelector('.header-container').appendChild(newHeader)
+    head.appendChild(newHeader);
     newHeader.appendChild(newDate);
     newHeader.appendChild(newHeadline);
     newHeader.appendChild(newTemp);

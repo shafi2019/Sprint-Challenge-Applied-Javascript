@@ -29,14 +29,22 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
+Answer: Its document Object Model which is is a platform and language-neutral interface that allows programs and scripts
+ to dynamically access and update the content, structure, and style of a document.
 
 2. What is an event?
+Answer: event in JavaScrip is an interaction on a website like (click, scroll, key, etc.);
 
 3. What is an event listener?
+Answer: The EventListener interface represents an object that can handle an event dispatched by an EventTarget object.
 
 4. Why would we convert a NodeList into an Array?
+Answer: we convert a NodeList into an Array to give ourself option for using Javascript methods on a list of elements.  
 
 5. What is a component?
+Answer: Components prevent us from using repetitive code throughout our pages. If we plan on having a repetitive item 
+(button, card, etc.), then a component can be used as the base function for their creation. It essentially is a function 
+that can be repeated for custom elements. 
 
 ### Git Set up
 
